@@ -39,6 +39,7 @@ The web build has to be served, not opened as a file: upload the unzipped folder
 | --- | --- | --- | --- | --- |
 | ZCatcher | Catch every image on a page and download them as a ZIP | 1.0 | [zcatcher.zip](https://github.com/zohaib-nawaz/release-apps/releases/download/zcatcher/zcatcher.zip) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/zcatcher) |
 | Universal Cloud Saver | Save images, videos, PDFs and files straight to Google Drive | 1.0.0 | [universal-cloud-saver.zip](https://github.com/zohaib-nawaz/release-apps/releases/download/universal-cloud-saver/universal-cloud-saver.zip) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/universal-cloud-saver) |
+| NETVRON | Video and stream downloader; blocked-site badges coming soon | 1.0.0 | [netvron-chrome.zip](https://github.com/zohaib-nawaz/release-apps/releases/download/netvron/netvron-chrome.zip) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/netvron) |
 
 ## Install a browser extension
 
