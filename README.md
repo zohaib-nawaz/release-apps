@@ -15,3 +15,21 @@ Downloadable Android builds of Zohaib Nawaz's apps. Each app has one release wit
 3. Tap Install.
 
 Updates install over the old version because every build of an app is signed with the same key.
+
+## Browser extensions
+
+| Extension | What it does | Version | Download | Release notes |
+| --- | --- | --- | --- | --- |
+| ZCatcher | Catch every image on a page and download them as a ZIP | 1.0 | [zcatcher.zip](https://github.com/zohaib-nawaz/release-apps/releases/download/zcatcher/zcatcher.zip) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/zcatcher) |
+| Universal Cloud Saver | Save images, videos, PDFs and files straight to Google Drive | 1.0.0 | [universal-cloud-saver.zip](https://github.com/zohaib-nawaz/release-apps/releases/download/universal-cloud-saver/universal-cloud-saver.zip) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/universal-cloud-saver) |
+
+## Install a browser extension
+
+Works in Chrome, Edge, Brave and other Chromium browsers.
+
+1. Download the ZIP and unzip it into a folder you will keep (the browser loads it from there).
+2. Open `chrome://extensions` and turn on **Developer mode** (top right).
+3. Click **Load unpacked** and choose the unzipped folder.
+4. Pin the extension from the puzzle icon in the toolbar.
+
+To update, download the new ZIP, replace the folder contents, and press the reload icon on the extension card.
