@@ -7,6 +7,7 @@ Downloadable Android builds of Zohaib Nawaz's apps. Each app has one release wit
 | Zohaib Portfolio | Zohaib Nawaz's portfolio as an app | 1.0.0 | [zohaib-portfolio.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/zohaib-portfolio/zohaib-portfolio.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/zohaib-portfolio) |
 | ZN GIFC | Sticker, GIF, video, image and PDF converter | 1.1.0 | [zn-gifc.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/zn-gifc/zn-gifc.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/zn-gifc) |
 | ZN Speed | Internet speed test with signal map | 1.4 | [zn-speed.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/zn-speed/zn-speed.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/zn-speed) |
+| Digital Eye Strain | 20-20-20 eye break reminders with smart pause and guided breaks | 1.0.0 | [digital-eye-strain.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/digital-eye-strain/digital-eye-strain.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/digital-eye-strain) |
 
 ## Install on Android
 
