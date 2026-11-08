@@ -25,6 +25,14 @@ Updates install over the old version because every build of an app is signed wit
 
 Desktop builds are not signed by Apple or Microsoft yet. On Mac, right-click the app and choose **Open** the first time. On Windows, click **More info** then **Run anyway** if SmartScreen appears.
 
+## Games
+
+| Game | What it is | Version | Download | Release notes |
+| --- | --- | --- | --- | --- |
+| Orbit Keeper | One-thumb arcade game built for YouTube Playables | 1.0.0 | [orbit-keeper-web.zip](https://github.com/zohaib-nawaz/release-apps/releases/download/orbit-keeper/orbit-keeper-web.zip) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/orbit-keeper) |
+
+The web build has to be served, not opened as a file: upload the unzipped folder to any static host, or run `npx serve` inside it.
+
 ## Browser extensions
 
 | Extension | What it does | Version | Download | Release notes |
