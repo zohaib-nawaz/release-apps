@@ -16,6 +16,15 @@ Downloadable Android builds of Zohaib Nawaz's apps. Each app has one release wit
 
 Updates install over the old version because every build of an app is signed with the same key.
 
+## Desktop apps
+
+| App | What it does | Version | Download | Release notes |
+| --- | --- | --- | --- | --- |
+| Digital Eye Strain Reminder | Tray app for the 20-20-20 eye break rule | 1.0.0 | [Mac (Apple Silicon)](https://github.com/zohaib-nawaz/release-apps/releases/download/digital-eye-strain/digital-eye-strain-mac-arm64.dmg) · [Windows](https://github.com/zohaib-nawaz/release-apps/releases/download/digital-eye-strain/digital-eye-strain-win-x64.zip) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/digital-eye-strain) |
+| MYRAA | Voice AI companion with Gemini Live and PC control (bring your own Gemini key) | 1.0.0 | [Windows installer](https://github.com/zohaib-nawaz/release-apps/releases/download/myraa/myraa-setup-win-x64.exe) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/myraa) |
+
+Desktop builds are not signed by Apple or Microsoft yet. On Mac, right-click the app and choose **Open** the first time. On Windows, click **More info** then **Run anyway** if SmartScreen appears.
+
 ## Browser extensions
 
 | Extension | What it does | Version | Download | Release notes |
