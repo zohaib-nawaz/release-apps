@@ -9,6 +9,7 @@ Downloadable Android builds of Zohaib Nawaz's apps. Each app has one release wit
 | ZN Speed | Internet speed test with signal map | 1.4 | [zn-speed.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/zn-speed/zn-speed.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/zn-speed) |
 | Digital Eye Strain | 20-20-20 eye break reminders with smart pause and guided breaks | 1.0.0 | [digital-eye-strain.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/digital-eye-strain/digital-eye-strain.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/digital-eye-strain) |
 | Apna Contacts | Private contact book for family and business, with password-protected sharing | 1.0.0 | [apna-contacts.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/apna-contacts/apna-contacts.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/apna-contacts) |
+| Stickerbox Lite | Make WhatsApp stickers with one-tap cutouts and add packs to WhatsApp | 1.1.0 | [stickerbox-lite.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/stickerbox-lite/stickerbox-lite.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/stickerbox-lite) |
 
 ## Install on Android
 
