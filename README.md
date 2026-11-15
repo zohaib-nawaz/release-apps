@@ -10,6 +10,8 @@ Downloadable Android builds of Zohaib Nawaz's apps. Each app has one release wit
 | Digital Eye Strain | 20-20-20 eye break reminders with smart pause and guided breaks | 1.0.0 | [digital-eye-strain.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/digital-eye-strain/digital-eye-strain.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/digital-eye-strain) |
 | Apna Contacts | Private contact book for family and business, with password-protected sharing | 1.0.0 | [apna-contacts.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/apna-contacts/apna-contacts.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/apna-contacts) |
 | Stickerbox Lite | Make WhatsApp stickers with one-tap cutouts and add packs to WhatsApp | 1.1.0 | [stickerbox-lite.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/stickerbox-lite/stickerbox-lite.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/stickerbox-lite) |
+| SayIt DoIt | Truth or dare party game with your own cards, spin the bottle and scoring | 1.0.0 | [sayit-doit.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/sayit-doit/sayit-doit.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/sayit-doit) |
+| Time On Earth | Live timer of how long you have been alive, down to the second | 1.0.2 | [time-on-earth.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/time-on-earth/time-on-earth.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/time-on-earth) |
 
 ## Install on Android
 
