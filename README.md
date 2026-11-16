@@ -12,6 +12,7 @@ Downloadable Android builds of Zohaib Nawaz's apps. Each app has one release wit
 | Stickerbox Lite | Make WhatsApp stickers with one-tap cutouts and add packs to WhatsApp | 1.1.0 | [stickerbox-lite.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/stickerbox-lite/stickerbox-lite.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/stickerbox-lite) |
 | SayIt DoIt | Truth or dare party game with your own cards, spin the bottle and scoring | 1.0.0 | [sayit-doit.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/sayit-doit/sayit-doit.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/sayit-doit) |
 | Time On Earth | Live timer of how long you have been alive, down to the second | 1.0.2 | [time-on-earth.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/time-on-earth/time-on-earth.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/time-on-earth) |
+| ZN Share | Send files between phones and computers over Wi-Fi with a QR code | 1.0.0 | [zn-share.apk](https://github.com/zohaib-nawaz/release-apps/releases/download/zn-share/zn-share.apk) | [Release](https://github.com/zohaib-nawaz/release-apps/releases/tag/zn-share) |
 
 ## Install on Android
 
